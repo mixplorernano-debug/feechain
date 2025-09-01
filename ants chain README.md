@@ -166,6 +166,29 @@ Also please see our Fiduciary License Agreement if you are contributing to the p
 
 ### Finished Features
 
+
+
+## Tools
+
+- [![bolt.new](https://www.google.com/s2/favicons?domain=bolt.new&sz=16) bolt.new](https://bolt.new/github.com/Timestopeofficial/feechain) - build apps with AI
+- [![stackblitz.com](https://www.google.com/s2/favicons?domain=stackblitz.com&sz=16) stackblitz.com](https://stackblitz.com/github.com/Timestopeofficial/feechain) - online IDE
+- [![pr.new](https://www.google.com/s2/favicons?domain=pr.new&sz=16) pr.new](https://pr.new/github.com/Timestopeofficial/feechain) - run with codeflow
+- [![github.dev](https://www.google.com/s2/favicons?domain=github.dev&sz=16) github.dev](https://github.dev/Timestopeofficial/feechain) - VSCode in the browser
+- [![gitmcp.io](https://www.google.com/s2/favicons?domain=gitmcp.io&sz=16) gitmcp.io](https://gitmcp.io/Timestopeofficial/feechain) - mcp for any repo
+- [![uithub.com](https://www.google.com/s2/favicons?domain=uithub.com&sz=16) uithub.com](https://uithub.com/Timestopeofficial/feechain) - prompt-friendly codebase
+- [![gitingest.com](https://www.google.com/s2/favicons?domain=gitingest.com&sz=16) gitingest.com](https://gitingest.com/Timestopeofficial/feechain) - prompt-friendly codebase
+- [![github.gg](https://www.google.com/s2/favicons?domain=github.gg&sz=16) github.gg](https://github.gg/Timestopeofficial/feechain) - chat with codebase
+- [![talktogithub.com](https://www.google.com/s2/favicons?domain=talktogithub.com&sz=16) talktogithub.com](https://talktogithub.com/Timestopeofficial/feechain) - chat with codebase
+- [![gitpodcast.com](https://www.google.com/s2/favicons?domain=gitpodcast.com&sz=16) gitpodcast.com](https://gitpodcast.com/Timestopeofficial/feechain) - codebase to podcast
+- [![gitdiagram.com](https://www.google.com/s2/favicons?domain=gitdiagram.com&sz=16) gitdiagram.com](https://gitdiagram.com/Timestopeofficial/feechain) - codebase to diagram
+- [![openrepowiki.xyz](https://www.google.com/s2/favicons?domain=openrepowiki.xyz&sz=16) openrepowiki.xyz](https://openrepowiki.xyz/Timestopeofficial/feechain) - codebase to wikipedia (OSS)
+- [![deepwiki.com](https://www.google.com/s2/favicons?domain=deepwiki.com&sz=16) deepwiki.com](https://deepwiki.com/Timestopeofficial/feechain) - codebase to wikipedia
+- [![cache.forgithub.com](https://www.google.com/s2/favicons?domain=cache.forgithub.com&sz=16) cache.forgithub.com](https://cache.forgithub.com/Timestopeofficial/feechain) - cache of repo metadata
+- [![threads.forgithub.com](https://www.google.com/s2/favicons?domain=threads.forgithub.com&sz=16) threads.forgithub.com](https://threads.forgithub.com/Timestopeofficial/feechain) - find X posts about repos
+- [![www.star-history.com](https://www.google.com/s2/favicons?domain=www.star-history.com&sz=16) www.star-history.com](https://www.star-history.com/#Timestopeofficial/feechain) - track stars
+- [![githubtracker.com](https://www.google.com/s2/favicons?domain=githubtracker.com&sz=16) githubtracker.com](https://githubtracker.com/Timestopeofficial/feechain) - track commits, issues, prs and more
+
+
 - Fully sharded network with beacon chain and shard chains
 - Sharded P2P network and P2P gossiping
 - FBFT (Fast Byzantine Fault Tolerance) Consensus with BLS multi-signature
